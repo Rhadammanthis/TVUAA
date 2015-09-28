@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="orange_dark" type="color">#ff9c18</item>
+    <item name="orange_medium" type="color">#FFB934</item>
+    <item name="orange_low" type="color">#ffd78a</item>
+    <item name="gray" type="color">#272727</item>
+    <item name="gray_clear" type="color">#5e5f5e</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="black" type="color">#000000</item>
+</resources>
