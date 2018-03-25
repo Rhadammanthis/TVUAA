@@ -24,12 +24,12 @@
         "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\drawer_shadow.9.png"
     },
     {
-        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\4ab70ff34dc7005c0a8394c852eef2bec26499a5\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
-    },
-    {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\hugoe\\.android\\build-cache\\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -45,7 +45,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendario.png",
@@ -73,7 +73,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\4ab70ff34dc7005c0a8394c852eef2bec26499a5\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -81,7 +81,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\2a9a5341a544525e807be16292f251426a8c0f22\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_button_send_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
@@ -93,7 +93,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\4ab70ff34dc7005c0a8394c852eef2bec26499a5\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confg.png",
@@ -101,11 +101,11 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\\output\\res\\drawable\\com_facebook_button_icon.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_button_icon.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_button_like_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
@@ -173,15 +173,15 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\1459f78df3598935fe327dd7664f1956cc739c7f\\output\\res\\drawable\\com_facebook_button_login_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alfa.png",
-        "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\alfa.png"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_button_login_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\hugoe\\.android\\build-cache\\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alfa.png",
+        "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\alfa.png"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
@@ -189,7 +189,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\\output\\res\\drawable\\com_facebook_button_background.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
@@ -225,7 +225,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\1459f78df3598935fe327dd7664f1956cc739c7f\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icono_cerrar.png",
@@ -233,11 +233,11 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\2a9a5341a544525e807be16292f251426a8c0f22\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nuok.jpg",
@@ -292,12 +292,12 @@
         "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\icon_less.png"
     },
     {
-        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
     },
     {
-        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\1459f78df3598935fe327dd7664f1956cc739c7f\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -328,12 +328,12 @@
         "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\teok.jpg"
     },
     {
-        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\4ab70ff34dc7005c0a8394c852eef2bec26499a5\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -369,7 +369,7 @@
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
-        "source": "C:\\Users\\hugoe\\.android\\build-cache\\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+        "source": "C:\\Users\\hugoe\\.android\\build-cache\\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
     },
     {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pleca_dark.png",
@@ -392,11 +392,11 @@
         "source": "C:\\Users\\hugoe\\.android\\build-cache\\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t_title.png",
-        "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\t_title.png"
-    },
-    {
         "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salir.png",
         "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\salir.png"
+    },
+    {
+        "merged": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t_title.png",
+        "source": "C:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\src\\main\\res\\drawable\\t_title.png"
     }
 ]

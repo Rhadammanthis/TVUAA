@@ -106,10 +106,16 @@ public class TVOnlineFragment extends Fragment implements OnClickListener,OnComp
 		if(ListProgram.isChapterExists()){
 			Chapter chapter = ListProgram.getCurrentChapter();
 			url=chapter.getUrlChapter();
+			Log.d("SHOCK", url);
 			videoTV.setVideoURI(Uri.parse(url));
 			videoTV.requestFocus();
-			if(Constant.KALTURA_STREAMING.equals(url))//si es streaming se desabilita el videoview
+			if(Constant.KALTURA_STREAMING.equals(url)) {//si es streaming se desabilita el videoview
 				videoTV.setEnabled(false);
+				videoSeekBar.setVisibility(View.INVISIBLE);
+				textDuration.setVisibility(View.INVISIBLE);
+				textStart.setVisibility(View.INVISIBLE);
+				buttonPlayPause.performClick();
+			}
 			nameProgram.setText(chapter.getNameChapter());
 		}
 	
@@ -268,6 +274,7 @@ public class TVOnlineFragment extends Fragment implements OnClickListener,OnComp
 	@Override
 	public boolean onError(MediaPlayer mp, int what, int extra) {
 		// TODO Auto-generated method stub
+		Log.d("SHOCK", "What " + String.valueOf(what) + ", Extra: " + String.valueOf(extra));
 		AlertDialog.Builder builder = new AlertDialog.Builder(self.getActivity());
 		builder.setMessage("Lo sentimos, no se puede reproducir este video ")
 		        .setTitle("Error")

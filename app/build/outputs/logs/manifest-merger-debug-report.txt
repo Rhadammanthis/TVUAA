@@ -23,24 +23,17 @@ MERGED from [com.android.support:transition:25.3.1] C:\Users\hugoe\.android\buil
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hugoe\.android\build-cache\f92c61065c040797d587eee81ae2ac5c9f91172b\output\AndroidManifest.xml:5:5-7:41
 MERGED from [me.relex:circleindicator:1.2.2] C:\Users\hugoe\.android\build-cache\4c05465cd3e048ebef0bbf5a2de04ae2a26fcf94\output\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\hugoe\.android\build-cache\149a29bfb17dcd5cec57956ab5e24593e7999fd9\output\AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] C:\Users\hugoe\.android\build-cache\595ee4c8c100f387b6767acba0f93c706c0a7b58\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-login:4.27.0] C:\Users\hugoe\.android\build-cache\1459f78df3598935fe327dd7664f1956cc739c7f\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-share:4.27.0] C:\Users\hugoe\.android\build-cache\2a9a5341a544525e807be16292f251426a8c0f22\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hugoe\.android\build-cache\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\034583470f7370b3c3db92cbcc7df3aeaf9b9271\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\79283459997a05df45a38a4ce52030e2b940cd3e\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\hugoe\.android\build-cache\74d783e0e6923269db5fdd00b9b17a007504cc91\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:customtabs:25.3.1] C:\Users\hugoe\.android\build-cache\c387fa8a7b9087ab99e3531d6754e72e8bb9cc04\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hugoe\.android\build-cache\5ebdcc3b13504e0327381cb203ad09ba0be09f3c\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hugoe\.android\build-cache\72466b63e815b733d2da086f39f6aaadd9f9b4bd\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hugoe\.android\build-cache\0310efb201e05c0980b017e6d181957200341f79\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hugoe\.android\build-cache\88f144c1cec58edde6781d81a40a0f8b9037b9bd\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.facebook.android:facebook-places:4.27.0] C:\Users\hugoe\.android\build-cache\c3d382f7e17c984f869dee05d8972126cae80402\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-applinks:4.27.0] C:\Users\hugoe\.android\build-cache\b402b2ab6e570e7faa84e698e1bf5dde82ac73e7\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-messenger:4.27.0] C:\Users\hugoe\.android\build-cache\4ab70ff34dc7005c0a8394c852eef2bec26499a5\output\AndroidManifest.xml:24:5-26:41
-MERGED from [com.facebook.android:facebook-core:4.27.0] C:\Users\hugoe\.android\build-cache\3629b1e192c6d7c095e4b1d587e9b82893117da9\output\AndroidManifest.xml:24:5-26:41
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hugoe\.android\build-cache\53c8a536674ef9a0664172f721b1312b202eee18\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\034583470f7370b3c3db92cbcc7df3aeaf9b9271\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\79283459997a05df45a38a4ce52030e2b940cd3e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\hugoe\.android\build-cache\74d783e0e6923269db5fdd00b9b17a007504cc91\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\hugoe\.android\build-cache\c387fa8a7b9087ab99e3531d6754e72e8bb9cc04\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hugoe\.android\build-cache\8bdddc38b487236e742ac1f368edc62b5dd1cb5b\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\hugoe\.android\build-cache\05c500006e513950562b2586eea64674222b5101\output\AndroidManifest.xml:23:9-59
@@ -66,29 +59,20 @@ MERGED from [com.android.support:design:25.3.1] C:\Users\hugoe\.android\build-ca
 MERGED from [com.android.support:transition:25.3.1] C:\Users\hugoe\.android\build-cache\cdf3cb77d6efd1b730ce13ede65a3fb9b2f317f7\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hugoe\.android\build-cache\f92c61065c040797d587eee81ae2ac5c9f91172b\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\hugoe\.android\build-cache\149a29bfb17dcd5cec57956ab5e24593e7999fd9\output\AndroidManifest.xml:26:5-20
-MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] C:\Users\hugoe\.android\build-cache\595ee4c8c100f387b6767acba0f93c706c0a7b58\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-login:4.27.0] C:\Users\hugoe\.android\build-cache\1459f78df3598935fe327dd7664f1956cc739c7f\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-share:4.27.0] C:\Users\hugoe\.android\build-cache\2a9a5341a544525e807be16292f251426a8c0f22\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:28:5-48:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hugoe\.android\build-cache\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\034583470f7370b3c3db92cbcc7df3aeaf9b9271\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\79283459997a05df45a38a4ce52030e2b940cd3e\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\hugoe\.android\build-cache\74d783e0e6923269db5fdd00b9b17a007504cc91\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:customtabs:25.3.1] C:\Users\hugoe\.android\build-cache\c387fa8a7b9087ab99e3531d6754e72e8bb9cc04\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hugoe\.android\build-cache\5ebdcc3b13504e0327381cb203ad09ba0be09f3c\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hugoe\.android\build-cache\72466b63e815b733d2da086f39f6aaadd9f9b4bd\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hugoe\.android\build-cache\0310efb201e05c0980b017e6d181957200341f79\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hugoe\.android\build-cache\88f144c1cec58edde6781d81a40a0f8b9037b9bd\output\AndroidManifest.xml:29:5-20
-MERGED from [com.facebook.android:facebook-places:4.27.0] C:\Users\hugoe\.android\build-cache\c3d382f7e17c984f869dee05d8972126cae80402\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-applinks:4.27.0] C:\Users\hugoe\.android\build-cache\b402b2ab6e570e7faa84e698e1bf5dde82ac73e7\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-messenger:4.27.0] C:\Users\hugoe\.android\build-cache\4ab70ff34dc7005c0a8394c852eef2bec26499a5\output\AndroidManifest.xml:28:5-29:19
-MERGED from [com.facebook.android:facebook-core:4.27.0] C:\Users\hugoe\.android\build-cache\3629b1e192c6d7c095e4b1d587e9b82893117da9\output\AndroidManifest.xml:28:5-43:19
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hugoe\.android\build-cache\53c8a536674ef9a0664172f721b1312b202eee18\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\034583470f7370b3c3db92cbcc7df3aeaf9b9271\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\79283459997a05df45a38a4ce52030e2b940cd3e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\hugoe\.android\build-cache\74d783e0e6923269db5fdd00b9b17a007504cc91\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\hugoe\.android\build-cache\c387fa8a7b9087ab99e3531d6754e72e8bb9cc04\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hugoe\.android\build-cache\8bdddc38b487236e742ac1f368edc62b5dd1cb5b\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\hugoe\Documents\Projects\Imported\TVUAA\app\src\main\AndroidManifest.xml:17:9-41
-	android:supportsRtl
-		ADDED from [com.facebook.android:facebook-android-sdk:4.27.0] C:\Users\hugoe\.android\build-cache\595ee4c8c100f387b6767acba0f93c706c0a7b58\output\AndroidManifest.xml:28:18-44
 	android:allowBackup
 		ADDED from C:\Users\hugoe\Documents\Projects\Imported\TVUAA\app\src\main\AndroidManifest.xml:15:9-35
 	android:icon
@@ -157,37 +141,37 @@ MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\hugoe\.android
 MERGED from [com.android.support:transition:25.3.1] C:\Users\hugoe\.android\build-cache\cdf3cb77d6efd1b730ce13ede65a3fb9b2f317f7\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:exifinterface:25.3.1] C:\Users\hugoe\.android\build-cache\149a29bfb17dcd5cec57956ab5e24593e7999fd9\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hugoe\.android\build-cache\56c5a7039f56097bd38f9e7df5a2c69760ff86f9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\034583470f7370b3c3db92cbcc7df3aeaf9b9271\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\79283459997a05df45a38a4ce52030e2b940cd3e\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\hugoe\.android\build-cache\74d783e0e6923269db5fdd00b9b17a007504cc91\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:customtabs:25.3.1] C:\Users\hugoe\.android\build-cache\c387fa8a7b9087ab99e3531d6754e72e8bb9cc04\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hugoe\.android\build-cache\5ebdcc3b13504e0327381cb203ad09ba0be09f3c\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hugoe\.android\build-cache\72466b63e815b733d2da086f39f6aaadd9f9b4bd\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hugoe\.android\build-cache\0310efb201e05c0980b017e6d181957200341f79\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hugoe\.android\build-cache\88f144c1cec58edde6781d81a40a0f8b9037b9bd\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hugoe\.android\build-cache\53c8a536674ef9a0664172f721b1312b202eee18\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\034583470f7370b3c3db92cbcc7df3aeaf9b9271\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hugoe\.android\build-cache\79283459997a05df45a38a4ce52030e2b940cd3e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\hugoe\.android\build-cache\74d783e0e6923269db5fdd00b9b17a007504cc91\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\hugoe\.android\build-cache\c387fa8a7b9087ab99e3531d6754e72e8bb9cc04\output\AndroidManifest.xml:22:5-24:34
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hugoe\.android\build-cache\8bdddc38b487236e742ac1f368edc62b5dd1cb5b\output\AndroidManifest.xml:25:5-27:34
 	android:value
 		ADDED from [com.android.support:design:25.3.1] C:\Users\hugoe\.android\build-cache\05c500006e513950562b2586eea64674222b5101\output\AndroidManifest.xml:27:9-31
 	android:name
 		ADDED from [com.android.support:design:25.3.1] C:\Users\hugoe\.android\build-cache\05c500006e513950562b2586eea64674222b5101\output\AndroidManifest.xml:26:9-47
 activity#com.facebook.FacebookActivity
-ADDED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:29:9-32:66
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:29:9-32:66
 	android:configChanges
-		ADDED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:31:13-96
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:31:13-96
 	android:theme
-		ADDED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:32:13-63
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:32:13-63
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:30:13-57
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:30:13-57
 activity#com.facebook.CustomTabMainActivity
-ADDED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:33:9-71
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:33:9-71
 	android:name
-		ADDED from [com.facebook.android:facebook-common:4.27.0] C:\Users\hugoe\.android\build-cache\7795a106c7c9438ab5e05103fc8d64b0ceecfa91\output\AndroidManifest.xml:33:19-68
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:33:19-68
 provider#com.facebook.internal.FacebookInitProvider
-ADDED from [com.facebook.android:facebook-core:4.27.0] C:\Users\hugoe\.android\build-cache\3629b1e192c6d7c095e4b1d587e9b82893117da9\output\AndroidManifest.xml:39:9-42:40
+ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:44:9-47:40
 	android:authorities
-		ADDED from [com.facebook.android:facebook-core:4.27.0] C:\Users\hugoe\.android\build-cache\3629b1e192c6d7c095e4b1d587e9b82893117da9\output\AndroidManifest.xml:41:13-72
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:46:13-72
 	android:exported
-		ADDED from [com.facebook.android:facebook-core:4.27.0] C:\Users\hugoe\.android\build-cache\3629b1e192c6d7c095e4b1d587e9b82893117da9\output\AndroidManifest.xml:42:13-37
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.facebook.android:facebook-core:4.27.0] C:\Users\hugoe\.android\build-cache\3629b1e192c6d7c095e4b1d587e9b82893117da9\output\AndroidManifest.xml:40:13-70
+		ADDED from [com.facebook.android:facebook-android-sdk:4.25.0] C:\Users\hugoe\.android\build-cache\354d4e58cfd088f9bb7fb9b17a6450256362a4a5\output\AndroidManifest.xml:45:13-70

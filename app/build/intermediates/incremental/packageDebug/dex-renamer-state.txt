@@ -1,7 +1,4 @@
-#Tue Oct 24 23:05:43 GMT 2017
-base.0=C\:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f8a0f707c3f1d261b86e41548c809f02d1a6454e
-renamed.1=classes2.dex
+#Sun Mar 25 19:51:28 GMT 2018
+base.0=C\:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.1=C\:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ff9dfb34968cc53458d08a45f7d9e0e5e5776e92\\classes.dex
-base.1=C\:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ff9dfb34968cc53458d08a45f7d9e0e5e5776e92
-file.0=C\:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f8a0f707c3f1d261b86e41548c809f02d1a6454e\\classes.dex
+file.0=C\:\\Users\\hugoe\\Documents\\Projects\\Imported\\TVUAA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

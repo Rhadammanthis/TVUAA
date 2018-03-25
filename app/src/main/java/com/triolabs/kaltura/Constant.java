@@ -26,9 +26,9 @@ public class Constant {
 	public static int KALTURA_MEDIATYPE=1;
 	public static String ID_BANNER_KALTURA="0_maql0g4n";
 	//host http://172.16.9.2
-	public static String HOST_KALTURA="http://kaltura.uaa.mx";
-	public static String KALTURA_STREAMING="rtsp://tv.uaa.mx:1935/videowhisper/TV-UAA";
-    public static String URL_GRILL="http://tv.uaa.mx/parrilla/api/controller.php";
+	public static String HOST_KALTURA="https://kaltura.uaa.mx";
+	public static String KALTURA_STREAMING="https://tv.uaa.mx:8443/videowhisper/TV-UAA/playlist.m3u8";
+    public static String URL_GRILL="https://tv.uaa.mx/parrilla/api/controller.php";
 	//grill http://172.16.9.10/kaltura/Admin_API/index.php?action=get_programmation&db=radio
     /**@param  ks asigna el ks del login
  	 */
